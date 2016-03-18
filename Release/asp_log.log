@@ -1,0 +1,83 @@
+DllMain entry. hModule = 0FEE0000
+DLL_PROCESS_ATTACH
+	targetModuleName = KERNEL32.dll
+	originalProc = 776A1282
+	userProc = 0FEE1060
+	callerModule = 00720000
+	importDesc = 0072A0A0
+	moduleName = ADVAPI32.dll; targetModuleName = KERNEL32.dll
+	moduleName = KERNEL32.dll; targetModuleName = KERNEL32.dll
+	Caller's IAT: pThunk = 0072102C
+	ppfn = 776A5366; originalProc = 776A1282
+	ppfn = 7772496F; originalProc = 776A1282
+	ppfn = 776A5846; originalProc = 776A1282
+	ppfn = 776BCFB4; originalProc = 776A1282
+	ppfn = 776BD077; originalProc = 776A1282
+	ppfn = 776BF451; originalProc = 776A1282
+	ppfn = 776C34A7; originalProc = 776A1282
+	ppfn = 776A5A5E; originalProc = 776A1282
+	ppfn = 776A4463; originalProc = 776A1282
+	ppfn = 776A14A9; originalProc = 776A1282
+	ppfn = 77C7E036; originalProc = 776A1282
+	ppfn = 776A5609; originalProc = 776A1282
+	ppfn = 776A18E5; originalProc = 776A1282
+	ppfn = 776A1442; originalProc = 776A1282
+	ppfn = 776BD552; originalProc = 776A1282
+	ppfn = 776A1AF4; originalProc = 776A1282
+	ppfn = 776BD638; originalProc = 776A1282
+	ppfn = 776BD620; originalProc = 776A1282
+	ppfn = 776A193A; originalProc = 776A1282
+	ppfn = 776A17E5; originalProc = 776A1282
+	ppfn = 776A3485; originalProc = 776A1282
+	ppfn = 776A48E3; originalProc = 776A1282
+	ppfn = 776A4908; originalProc = 776A1282
+	ppfn = 776A45D8; originalProc = 776A1282
+	ppfn = 776A18CD; originalProc = 776A1282
+	ppfn = 776A190A; originalProc = 776A1282
+	ppfn = 776A1802; originalProc = 776A1282
+	ppfn = 776A5977; originalProc = 776A1282
+	ppfn = 776A1778; originalProc = 776A1282
+	ppfn = 776A896B; originalProc = 776A1282
+	ppfn = 776BCE06; originalProc = 776A1282
+	ppfn = 776A16E9; originalProc = 776A1282
+	ppfn = 776A11A9; originalProc = 776A1282
+	ppfn = 776A1282; originalProc = 776A1282
+	Change protection: Result = 1
+	Replace original function: Result = 1
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_DETACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_DETACH
+	WriteFile_Hook: hFile = 00000128
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_DETACH
+DllMain entry. hModule = 0FEE0000
+DLL_THREAD_ATTACH
+DllMain entry. hModule = 0FEE0000
+DLL_PROCESS_DETACH
